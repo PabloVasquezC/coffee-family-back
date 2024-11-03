@@ -10,4 +10,5 @@ public class CoffeeFamilyApplication {
 		SpringApplication.run(CoffeeFamilyApplication.class, args);
 	}
 
+
 }
