@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
-@CrossOrigin(origins = "https://coffe-family-front.vercel.app")
+@CrossOrigin(origins = "https://familycoffee.vercel.app")
 @RestController
 @RequestMapping("/products")
 public class ProductController {
